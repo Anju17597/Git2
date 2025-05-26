@@ -1,0 +1,3 @@
+This is a notepad file
+I created this file since i can write anything in a text file
+If its a python file i need to write codes.
